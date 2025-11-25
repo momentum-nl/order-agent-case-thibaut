@@ -1,0 +1,114 @@
+[
+  {
+    "id": 33,
+    "company_id": 24,
+    "email_address": "contact7@example.com",
+    "api_token": "fake-api-token-for-testing-001",
+    "api_contact_id": null
+  },
+  {
+    "id": 45,
+    "company_id": 38,
+    "email_address": "contact1@example.com",
+    "api_token": "fake-api-token-for-testing-002",
+    "api_contact_id": null
+  },
+  {
+    "id": 46,
+    "company_id": 39,
+    "email_address": "contact16@example.com",
+    "api_token": "fake-api-token-for-testing-003",
+    "api_contact_id": null
+  },
+  {
+    "id": 60,
+    "company_id": 52,
+    "email_address": "contact15@example.com",
+    "api_token": "fake-api-token-for-testing-004",
+    "api_contact_id": null
+  },
+  {
+    "id": 169,
+    "company_id": 157,
+    "email_address": "contact4@example.com",
+    "api_token": "fake-api-token-for-testing-005",
+    "api_contact_id": null
+  },
+  {
+    "id": 183,
+    "company_id": 171,
+    "email_address": "contact10@example.com",
+    "api_token": "fake-api-token-for-testing-006",
+    "api_contact_id": null
+  },
+  {
+    "id": 232,
+    "company_id": 216,
+    "email_address": "contact14@example.com",
+    "api_token": "fake-api-token-for-testing-007",
+    "api_contact_id": null
+  },
+  {
+    "id": 304,
+    "company_id": 25,
+    "email_address": "contact9@example.com",
+    "api_token": "fake-api-token-for-testing-008",
+    "api_contact_id": null
+  },
+  {
+    "id": 327,
+    "company_id": 25,
+    "email_address": "contact5@example.com",
+    "api_token": "fake-api-token-for-testing-008",
+    "api_contact_id": null
+  },
+  {
+    "id": 331,
+    "company_id": 1,
+    "email_address": "contact6@example.com",
+    "api_token": "fake-api-token-for-testing-009",
+    "api_contact_id": null
+  },
+  {
+    "id": 481,
+    "company_id": 14,
+    "email_address": "contact2@example.com",
+    "api_token": "fake-api-token-for-testing-010",
+    "api_contact_id": null
+  },
+  {
+    "id": 484,
+    "company_id": 425,
+    "email_address": "contact3@example.com",
+    "api_token": "fake-api-token-for-testing-011",
+    "api_contact_id": null
+  },
+  {
+    "id": 548,
+    "company_id": 39,
+    "email_address": "contact13@example.com",
+    "api_token": "fake-api-token-for-testing-003",
+    "api_contact_id": null
+  },
+  {
+    "id": 595,
+    "company_id": 508,
+    "email_address": "contact8@example.com",
+    "api_token": "fake-api-token-for-testing-012",
+    "api_contact_id": null
+  },
+  {
+    "id": 616,
+    "company_id": 527,
+    "email_address": "contact12@example.com",
+    "api_token": "fake-api-token-for-testing-013",
+    "api_contact_id": null
+  },
+  {
+    "id": 617,
+    "company_id": 177,
+    "email_address": "contact11@example.com",
+    "api_token": "fake-api-token-for-testing-014",
+    "api_contact_id": null
+  }
+]

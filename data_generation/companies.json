@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "company_id": "COMP-001",
+    "company_name": "Company F",
+    "default_contact_id": 3
+  },
+  {
+    "id": 14,
+    "company_id": "COMP-002",
+    "company_name": "Company C",
+    "default_contact_id": 16
+  },
+  {
+    "id": 24,
+    "company_id": "COMP-003",
+    "company_name": "Company G",
+    "default_contact_id": 26
+  },
+  {
+    "id": 25,
+    "company_id": "COMP-004",
+    "company_name": "Company E",
+    "default_contact_id": 27
+  },
+  {
+    "id": 38,
+    "company_id": "COMP-005",
+    "company_name": "Company F",
+    "default_contact_id": null
+  },
+  {
+    "id": 39,
+    "company_id": "COMP-006",
+    "company_name": "Company H",
+    "default_contact_id": 46
+  },
+  {
+    "id": 52,
+    "company_id": "COMP-007",
+    "company_name": "Company B",
+    "default_contact_id": 60
+  },
+  {
+    "id": 157,
+    "company_id": "COMP-008",
+    "company_name": null,
+    "default_contact_id": null
+  },
+  {
+    "id": 171,
+    "company_id": "COMP-009",
+    "company_name": "Company A",
+    "default_contact_id": 183
+  },
+  {
+    "id": 177,
+    "company_id": "COMP-010",
+    "company_name": "Company D",
+    "default_contact_id": 189
+  },
+  {
+    "id": 216,
+    "company_id": "COMP-011",
+    "company_name": null,
+    "default_contact_id": null
+  },
+  {
+    "id": 425,
+    "company_id": "COMP-012",
+    "company_name": null,
+    "default_contact_id": null
+  },
+  {
+    "id": 508,
+    "company_id": "COMP-013",
+    "company_name": null,
+    "default_contact_id": null
+  },
+  {
+    "id": 527,
+    "company_id": "COMP-014",
+    "company_name": null,
+    "default_contact_id": null
+  }
+]
